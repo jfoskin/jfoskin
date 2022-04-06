@@ -2,15 +2,8 @@
 
 ![personalbanner](https://user-images.githubusercontent.com/82051355/162058647-ee5995a4-0c00-41ce-8661-0b4a303e6acc.png)
 # Hi, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- My name is Jazma Foskin and I'm a full-stack software engineer. I'm a lover of art, food, and traveling.  [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jfoskin)
+ My name is Jazma Foskin and I'm a full-stack software engineer. I'm a lover of art, food, and traveling.  [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/jfoskin)
 
-<!-- Icons -->
-
-[2.2]: https://raw.githubusercontent.com/jfoskin/jfoskin/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/in/jfoskin/
  
  
  ### :wrench: Technologies & Tools
