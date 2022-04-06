@@ -23,7 +23,7 @@
 
 ##  :chart_with_upwards_trend: GitHub Stats
 
-[![Jazma's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfoskin)](https://github.com/jfoskin/github-readme-stats)
+[![Jazma's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfoskin&count_private=true&show_icons=true)](https://github.com/jfoskin/github-readme-stats)
 
 
 
