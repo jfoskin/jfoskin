@@ -9,7 +9,7 @@
  ### :wrench: Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=64dfdf)
-![](https://img.shields.io/badge/Shell-Bash/Zsh-informational?style=plastic&logo=windowsterminal&logoColor=white&color=64dfdf)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=plastic&logo=windowsterminal&logoColor=white&color=64dfdf)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=visualstudiocode&logoColor=white&color=64dfdf)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=64dfdf)
 ![](https://img.shields.io/badge/Code-React%20Native-informational?style=plastic&logo=react&logoColor=white&color=64dfdf)
@@ -20,6 +20,10 @@
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=plastic&logo=figma&logoColor=white&color=64dfdf)
 ![](https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&logoColor=white&color=64dfdf)
 ![](https://img.shields.io/badge/Tools-Firebase%20Authentication-informational?style=plastic&logo=firebase&logoColor=white&color=64dfdf)
+
+##  :chart_with_upwards_trend: GitHub Stats
+
+[![Jazma's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfoskin)](https://github.com/jfoskin/github-readme-stats)
 
 
 
