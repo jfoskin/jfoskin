@@ -5,7 +5,7 @@
  My name is Jazma Foskin and I'm a full-stack software engineer. I'm a lover of art, food, and traveling. 
 
 
-You can find me on on [![LinkedIn][3.2]][3].
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jfoskin)
 
 <!-- Icons -->
 
