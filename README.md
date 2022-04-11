@@ -29,7 +29,7 @@
 ![](https://img.shields.io/badge/Code-Redux-informational?style=plastic&logo=redux&logoColor=white&color=64dfdf)<br>
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=64dfdf)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=plastic&logo=postman&logoColor=white&color=64dfdf)
-![](https://img.shields.io/badge/Tools-Expo-informational?style=plastic&logo=expo&logoColor=white&color=64dfdf)
+
 
 ##  :chart_with_upwards_trend: GitHub Stats
 
