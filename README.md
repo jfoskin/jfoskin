@@ -20,7 +20,13 @@
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=plastic&logo=figma&logoColor=white&color=64dfdf)
 ![](https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&logoColor=white&color=64dfdf)
 ![](https://img.shields.io/badge/Tools-Firebase%20Authentication-informational?style=plastic&logo=firebase&logoColor=white&color=64dfdf)<br>
-![](https://img.shields.io/badge/Code-HTML5-informational?style=plastic&logo=html&logoColor=white&color=64dfdf)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=plastic&logo=html5&logoColor=white&color=64dfdf)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=plastic&logo=css3&logoColor=white&color=64dfdf)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=plastic&logo=heroku&logoColor=white&color=64dfdf)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=plastic&logo=nodedotjs&logoColor=white&color=64dfdf)
+![](https://img.shields.io/badge/Tools-Gitinformational?style=plastic&logo=git&logoColor=white&color=64dfdf)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=plastic&logo=github&logoColor=white&color=64dfdf)<br>
+![](https://img.shields.io/badge/Code-Redux-informational?style=plastic&logo=redux&logoColor=white&color=64dfdf)
 
 ##  :chart_with_upwards_trend: GitHub Stats
 
