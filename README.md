@@ -19,7 +19,8 @@
 ![](https://img.shields.io/badge/Tools-SeatGeek%20API-informational?style=plastic&logo=&logoColor=white&color=64dfdf)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=plastic&logo=figma&logoColor=white&color=64dfdf)
 ![](https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&logoColor=white&color=64dfdf)
-![](https://img.shields.io/badge/Tools-Firebase%20Authentication-informational?style=plastic&logo=firebase&logoColor=white&color=64dfdf)
+![](https://img.shields.io/badge/Tools-Firebase%20Authentication-informational?style=plastic&logo=firebase&logoColor=white&color=64dfdf)<br>
+![](https://img.shields.io/badge/Code-HTML5-informational?style=plastic&logo=html&logoColor=white&color=64dfdf)
 
 ##  :chart_with_upwards_trend: GitHub Stats
 
